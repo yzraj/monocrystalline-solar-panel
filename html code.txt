@@ -1,35 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta name="google-site-verification" content="z9ggrNNAf_9LgbQRT9uOtiXdirGTeUtRP5ii9s71sA0" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="google-site-verification" content="your-verification-code" />
-    <title>Your GitHub Page</title>
-    <link rel="stylesheet" href="style.css">
+    <meta name="google-site-verification" content="<meta name="google-site-verification" content="z9ggrNNAf_9LgbQRT9uOtiXdirGTeUtRP5ii9s71sA0" />" />
+    <title>My Website</title>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
-
-    <main>
-        <h1>Welcome to My GitHub Page</h1>
-        <p>This is a sample page with header and footer.</p>
-    </main>
-
-    <footer>
-        <p>© 2024 Your Name. All rights reserved.</p>
-    </footer>
-
-    <script>
-        alert('Welcome to my GitHub Page!');
-    </script>
+    <h1>Welcome to My Website</h1>
+    <p>This is a simple HTML page.</p>
 </body>
 </html>
